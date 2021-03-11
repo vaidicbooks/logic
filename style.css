@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Stick&display=swap');
+
+#my {
+	border-style: solid;
+   border-right-width: 2px;
+   border-left-width: 2px;
+   border-bottom-width: 1px;
+   border-top-width: 8px;
+   border-color: red;
+   text-align: center;
+   border-bottom-right-radius: 10px;
+   background-color:orange;
+   margin-bottom: 50px;
+   color: green;
+   border-right-width:2px;
+   border-radius: 50px;
+}
+
+#your  {
+	border-style: solid;
+	background-color: white;
+	border-color: red;
+	text-align: left;
+	margin-left: 2px;
+	color: green;
+	width:20%;
+	text-align: center;
+	 background-color: #ffb;
+    margin-bottom: 10px;
+    border-radius: 400px;
+    box-shadow: rgba(255,220,220,225);
+    font-family: Barlow;
+   }
+
+
+a:visited {
+   color: blue;
+}
+
+a {
+   text-decoration: none;
+   font-family: Stick;
+}
+
+#your:hover {
+   background-color: pink;
+   border-radius: 0px;
+   transition: 0s;
+}
+
+
+   
+
